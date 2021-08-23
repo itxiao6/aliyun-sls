@@ -17,17 +17,17 @@
     "ext-zlib": "*"
   },
   "require-dev": {
-    "hyperf/config": ">=2.0.0",
-    "hyperf/event": ">=2.0.0",
-    "hyperf/framework": ">=2.0.0",
-    "hyperf/process": ">=2.0.0",
+    "hyperf/config": ">=2",
+    "hyperf/event": ">=2",
+    "hyperf/framework": ">=2",
+    "hyperf/process": ">=2",
     "malukenho/docheader": "^0.1.6",
     "mockery/mockery": "^1.0",
     "phpunit/phpunit": "^7.0.0",
     "monolog/monolog": "^2.0",
-    "hyperf/utils": ">=2.0.0",
+    "hyperf/utils": ">=2",
     "friendsofphp/php-cs-fixer": "^2.9",
-    "hyperf/di": ">=2.0.0"
+    "hyperf/di": ">=2"
   },
   "autoload": {
     "psr-4": {
